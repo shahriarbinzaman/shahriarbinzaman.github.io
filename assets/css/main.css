@@ -4701,8 +4701,16 @@ input, select, textarea {
 }
 
 
-.job-details {
+.section-title {
 	text-align: left;
 }
+
+.section-note {
+	font-size: 0.8em;
+	color: #333;
+	font-style: italic;
+	margin-top: -20px;
+}
+
 
 
