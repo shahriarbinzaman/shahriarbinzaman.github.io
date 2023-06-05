@@ -4689,8 +4689,8 @@ input, select, textarea {
 	}
 .round-img {
 	width: 50px; /* adjust size as needed */
-	height: 50px; /* adjust size as needed */
-	border-radius: 50%;
+	height: 1000px; /* adjust size as needed */
+	border-radius: 100%;
 	object-fit: cover; /* this ensures that the image scales properly */
 }
 
